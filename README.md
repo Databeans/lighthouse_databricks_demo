@@ -1,3 +1,5 @@
-# lighthouse_databricks_demo
+# lighthouse databricks demo
+
 Databricks notebook:
-lighthouse use-case to help you understand how to use the library in order to extract clustering metrics for a certain Delta Table
+
+help users understand how to use the lighthouse library in order to extract clustering metrics for a certain Delta Table
